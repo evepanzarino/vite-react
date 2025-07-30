@@ -16,7 +16,7 @@ function App() {
         }}
       >
      
-          <p className="home-header">Home</p>
+      
       
       </h3>
     </a>
@@ -32,7 +32,7 @@ function App() {
         }}
       >
    
-          <p className="shop">Services</p>
+
         
       </h3>
     </a>
@@ -56,7 +56,7 @@ function App() {
         }}
       >
      
-          <p className="blog">Blog</p>
+    
     
       </h3>
     </a>
@@ -70,8 +70,6 @@ function App() {
           fontFamily: '"Alegreya"'
         }}
       >
-
-          <p className="cart">Cart</p>
      
       </h3>
     </a>

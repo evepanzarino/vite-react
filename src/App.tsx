@@ -15,7 +15,7 @@ function App() {
           fontFamily: '"Alegreya"'
         }}
       >
-     
+     Home
       
       
       </h3>
@@ -32,7 +32,7 @@ function App() {
         }}
       >
    
-
+Shop
         
       </h3>
     </a>
@@ -56,7 +56,7 @@ function App() {
         }}
       >
      
-    
+    Blog
     
       </h3>
     </a>
@@ -70,7 +70,7 @@ function App() {
           fontFamily: '"Alegreya"'
         }}
       >
-     
+     Checkout
       </h3>
     </a>
   </div>

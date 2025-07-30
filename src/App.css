@@ -26,14 +26,11 @@ a {
 }
 
 .header-grid {
-    display: grid
-;
+    display: grid;
   height: auto;
-  padding: 2px;
     align-content: center;
     grid-template-columns: 20% 20% 20% 20% 20%
-20%
-;
+20%;
     text-align: center;
     background-color: #b2495a;
 }
@@ -53,6 +50,7 @@ a {
 }
 @media only screen and (max-width: 700px) {
   .header-grid{
+    padding:7px;
         height: 4vw ;
     align-content: center;
   }

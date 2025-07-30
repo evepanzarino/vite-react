@@ -59,11 +59,16 @@ height: auto;
         font-size: 2vw ;
 }
 }
+@media only screen and (max-width: 1000px) {
+.header-grid{
+    
+      padding: 4vw;}
+}
 @media only screen and (max-width: 700px) {
   
   .header-grid{
     
-        padding: 4vw;
+      
     align-content: center;
   }
   .header-title a{

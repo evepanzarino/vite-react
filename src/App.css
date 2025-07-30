@@ -30,8 +30,7 @@ a {
     display: grid;
   height: auto;
     align-content: center;
-    grid-template-columns: 20% 20% 20% 20% 20%
-20%;
+    grid-template-columns: auto auto 33% auto auto;
     text-align: center;
     background-color: #b2495a;
 }

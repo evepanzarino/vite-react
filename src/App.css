@@ -29,7 +29,7 @@ div#root
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: white;
   text-decoration: inherit;
 }
 .header-item a:hover {
@@ -37,7 +37,7 @@ a {
 }
 
 .header-grid {
-  
+  padding: 4vw;
     display: grid;
 height: auto;
     align-content: center;

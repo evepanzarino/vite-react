@@ -39,7 +39,7 @@ a {
 .header-grid {
   
     display: grid;
-  height:12vw;
+
     align-content: center;
     grid-template-columns: auto auto auto auto auto;
     text-align: center;

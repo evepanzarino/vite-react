@@ -54,6 +54,9 @@ a {
         height: 4vw ;
     align-content: center;
   }
+  #menu{
+    font-size: 1vw;
+  }
  .header-item h3
  {
      margin-block-start: 0 !important;

@@ -8,9 +8,8 @@ function App() {
     <a href="https://panzarino.org">
       <h3
         style={{
-          marginTop: "-5px",
           textAlign: "center",
-          fontSize: 25,
+      
           fontWeight: 700,
           fontFamily: '"Alegreya"'
         }}
@@ -25,9 +24,8 @@ function App() {
     <a href="https://panzarino.org/shop">
       <h3
         style={{
-          marginTop: "-5px",
           textAlign: "center",
-          fontSize: 25,
+          
           fontWeight: 700,
           fontFamily: '"Alegreya"'
         }}
@@ -40,7 +38,7 @@ function App() {
   </div>
   <div className="header-item">
     <a href="https://panzarino.org">
-      <h3 style={{ fontSize: 24, fontWeight: 700, fontFamily: '"Alegreya"' }}>
+      <h3 style={{  fontWeight: 700, fontFamily: '"Alegreya"' }}>
         Panzarino
       </h3>
     </a>
@@ -49,9 +47,9 @@ function App() {
     <a href="https://panzarino.org/posts">
       <h3
         style={{
-          marginTop: "-5px",
+   
           textAlign: "center",
-          fontSize: 25,
+    
           fontWeight: 700,
           fontFamily: '"Alegreya"'
         }}
@@ -66,9 +64,7 @@ function App() {
     <a href="https://panzarino.org/checkout">
       <h3
         style={{
-          marginTop: "-5px",
           textAlign: "center",
-          fontSize: 25,
           fontWeight: 700,
           fontFamily: '"Alegreya"'
         }}

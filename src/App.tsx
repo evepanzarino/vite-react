@@ -19,7 +19,7 @@ function App() {
       >
        <FontAwesomeIcon icon={faHouse} />
           <p className="home-header">Home</p>
-        </i>
+      
       </h3>
     </a>
   </div>
@@ -35,7 +35,7 @@ function App() {
       >
        <FontAwesomeIcon icon={faHouse} />
           <p className="shop">Services</p>
-        </i>
+        
       </h3>
     </a>
   </div>
@@ -59,7 +59,7 @@ function App() {
       >
       <FontAwesomeIcon icon={faHouse} />
           <p className="blog">Blog</p>
-        </i>
+    
       </h3>
     </a>
   </div>
@@ -74,7 +74,7 @@ function App() {
       >
     <FontAwesomeIcon icon={faHouse} />
           <p className="cart">Cart</p>
-        </i>
+     
       </h3>
     </a>
   </div>

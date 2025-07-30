@@ -37,7 +37,7 @@ a {
 }
 
 .header-grid {
-  padding: 4vw;
+  
     display: grid;
 height: auto;
     align-content: center;
@@ -63,7 +63,7 @@ height: auto;
   
   .header-grid{
     
-        
+        padding: 4vw;
     align-content: center;
   }
   .header-title a{

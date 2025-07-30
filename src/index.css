@@ -16,10 +16,7 @@ div#root
  {
     width: 100%;
 }
-h3 {
-    margin-block-start: 0 !important;
-    margin-block-end: 0 !important;
-}
+
 a {
   font-weight: 500;
   color: #646cff;
@@ -40,6 +37,8 @@ a {
 }
 .header-item h3
  {
+     margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
     font-size: 1.5vw !important;
 }
 .header-item a

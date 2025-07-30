@@ -1,6 +1,4 @@
 import './App.css'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faHouse } from '@awesome.me/kit-KIT_CODE/icons/classic/solid'
 
 function App() {
   return (

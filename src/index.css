@@ -34,6 +34,10 @@ a {
     text-align: center;
     background-color: #b2495a;
 }
+.header-item h3
+ {
+    font-size: 1.5vw !important;
+}
 .header-item a
  {
     color: white;

@@ -14,7 +14,7 @@ function App() {
           fontFamily: '"Alegreya"'
         }}
       >
-        <i className="fa fa-home" aria-hidden="true">
+        <FontAwesomeIcon icon={byPrefixAndName.fas['house']} />
           <p className="home-header">Home</p>
         </i>
       </h3>
@@ -30,7 +30,7 @@ function App() {
           fontFamily: '"Alegreya"'
         }}
       >
-        <i className="fa-solid fa-bag-shopping">
+        <FontAwesomeIcon icon={byPrefixAndName.fas['house']} />
           <p className="shop">Services</p>
         </i>
       </h3>
@@ -54,7 +54,7 @@ function App() {
           fontFamily: '"Alegreya"'
         }}
       >
-        <i className="fas fa-blog">
+       <FontAwesomeIcon icon={byPrefixAndName.fas['house']} />
           <p className="blog">Blog</p>
         </i>
       </h3>
@@ -69,7 +69,7 @@ function App() {
           fontFamily: '"Alegreya"'
         }}
       >
-        <i className="fa-solid fa-cart-shopping">
+        <FontAwesomeIcon icon={byPrefixAndName.fas['house']} />
           <p className="cart">Cart</p>
         </i>
       </h3>

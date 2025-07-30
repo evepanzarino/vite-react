@@ -5,7 +5,7 @@ function App() {
     <>
       
  <div className="header-grid">
-  <div className="header-item" id={styles["menu"]}>
+  <div className="header-item">
     <a href="https://panzarino.org">
       <h3
         style={{
@@ -21,7 +21,7 @@ function App() {
       </h3>
     </a>
   </div>
-  <div className="header-item" id={styles["menu"]}>
+  <div className="header-item">
     <a href="https://panzarino.org/shop">
       <h3
         style={{
@@ -37,14 +37,14 @@ Shop
       </h3>
     </a>
   </div>
-  <div className="header-item">
+  <div className="header-title">
     <a href="https://panzarino.org">
       <h3 style={{  fontWeight: 700, fontFamily: '"Alegreya"' }}>
         Panzarino
       </h3>
     </a>
   </div>
-  <div className="header-item" id={styles["menu"]}>
+  <div className="header-item" >
     <a href="https://panzarino.org/posts">
       <h3
         style={{
@@ -61,7 +61,7 @@ Shop
       </h3>
     </a>
   </div>
-  <div className="header-item" id={styles["menu"]}>
+  <div className="header-item" >
     <a href="https://panzarino.org/checkout">
       <h3
         style={{

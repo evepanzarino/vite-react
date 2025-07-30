@@ -26,6 +26,7 @@ a {
 }
 
 .header-grid {
+  padding:3px;
     display: grid;
   height: auto;
     align-content: center;

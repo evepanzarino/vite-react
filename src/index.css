@@ -18,16 +18,26 @@ a {
   color: #646cff;
   text-decoration: inherit;
 }
-a:hover {
-  color: #535bf2;
+.header-item a:hover {
+  color: white;
 }
 
+.header-grid {
+    display: grid
+;
+    grid-template-columns: 20% 20% 20% 20% 20%
+20%
+;
+    text-align: center;
+    background-color: #b2495a;
+}
+.header-item a
+ {
+    color: white;
+}
 body {
   margin: 0;
-  display: flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
 }
 
 h1 {

@@ -11,6 +11,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.header-item {
+    align-content: center;
+}
 div#root
  {
     width: 100%;

@@ -53,7 +53,7 @@ a {
 }
 @media only screen and (max-width: 700px) {
   .header-grid{
-        height: 7vw;
+        height: 4vw;
     align-content: center;
   }
  .header-item h3

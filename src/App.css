@@ -31,9 +31,9 @@ a {
 .header-grid {
   
     display: grid;
-  height: auto;
+  height: height: 12vw;
     align-content: center;
-    grid-template-columns: auto auto 33% auto auto;
+    grid-template-columns: auto auto auto auto auto;
     text-align: center;
     background-color: #b2495a;
 }
@@ -52,6 +52,7 @@ a {
 }
 }
 @media only screen and (max-width: 700px) {
+  
   .header-grid{
     
         
@@ -79,9 +80,6 @@ body {
   place-items: center;
 }
 
-h1 {
-  line-height: 1.1;
-}
 
 button {
   border-radius: 8px;

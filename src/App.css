@@ -26,7 +26,7 @@ a {
 }
 
 .header-grid {
-  padding:3px;
+  
     display: grid;
   height: auto;
     align-content: center;
@@ -50,8 +50,8 @@ a {
 }
 @media only screen and (max-width: 700px) {
   .header-grid{
-    padding:20px;
-        height: 4vw ;
+    
+        
     align-content: center;
   }
   .header-title a{
@@ -64,7 +64,7 @@ a {
  {
      margin-block-start: 0 !important;
     margin-block-end: 0 !important;
-        font-size: 6vw;
+        font-size: 3vw;
 }
 }
 .header-item a

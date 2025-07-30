@@ -24,11 +24,14 @@ a {
 .header-item a:hover {
   color: white;
 }
+.header-title{
+  font-size: 6vw;
+}
 
 .header-grid {
-  padding:3px;
     display: grid;
   height: auto;
+  line-height: 0;
     align-content: center;
     grid-template-columns: auto auto 33% auto auto;
     text-align: center;
@@ -50,7 +53,6 @@ a {
 }
 @media only screen and (max-width: 700px) {
   .header-grid{
-    padding:20px;
         height: 4vw ;
     align-content: center;
   }
@@ -59,7 +61,7 @@ a {
   }
  .header-item h3
  {
-     margin-block-start: 0 !important;
+     margin-block-start: 6.7vw !important;
     margin-block-end: 0 !important;
         font-size: 3vw;
 }

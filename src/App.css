@@ -11,6 +11,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.header-title{
+  color: white;
+    font-size:6vw;
+  }
 .header-item {
     align-content: center;
 }
@@ -106,7 +110,7 @@ button:focus-visible {
     background-color: #ffffff;
   }
   a:hover {
-    color: #747bff;
+    color: white;
   }
   button {
     background-color: #f9f9f9;

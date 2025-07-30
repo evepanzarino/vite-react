@@ -31,7 +31,7 @@ a {
 .header-grid {
   
     display: grid;
-  height: height: 12vw;
+  height:12vw;
     align-content: center;
     grid-template-columns: auto auto auto auto auto;
     text-align: center;

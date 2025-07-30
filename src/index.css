@@ -28,6 +28,8 @@ a {
 .header-grid {
     display: grid
 ;
+    height: 40px;
+    align-content: center;
     grid-template-columns: 20% 20% 20% 20% 20%
 20%
 ;
@@ -38,7 +40,7 @@ a {
  {
      margin-block-start: 0 !important;
     margin-block-end: 0 !important;
-    font-size: 1.5vw !important;
+        font-size: auto !important;
 }
 .header-item a
  {
